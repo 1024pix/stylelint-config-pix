@@ -16,6 +16,9 @@
   "devDependencies": {
     "prettier": "^2.8.3"
   },
+  "prettier": {
+    "singleQuote": true
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1024pix/stylelint-config-pix.git"
