@@ -18,5 +18,6 @@ module.exports = {
     'declaration-colon-space-before': 'never',
     'declaration-block-semicolon-space-before': 'never',
     'block-opening-brace-space-before': 'always',
+    'string-quotes': 'single',
   },
 };
