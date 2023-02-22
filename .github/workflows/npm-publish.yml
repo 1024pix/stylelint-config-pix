@@ -26,8 +26,6 @@ jobs:
           git config --global user.email "service+github.auto-merge@pix.fr"
       - run: npm version ${{ inputs.version }}
       - run: git push && git push --tags
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_PUBLISH_ACCESS_TOKEN}}
