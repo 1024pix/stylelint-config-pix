@@ -9,7 +9,9 @@
     "lint:fix": "prettier --write ."
   },
   "peerDependencies": {
-    "stylelint": ">=15.0.0",
+    "stylelint": ">=15.0.0"
+  },
+  "dependencies": {
     "stylelint-config-standard-scss": ">=9.0.0",
     "@1024pix/stylelint-config-rational-order": ">=0.1.2"
   },
