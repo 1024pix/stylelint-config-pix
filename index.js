@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'stylelint-config-standard-scss',
-    'stylelint-config-rational-order',
+    '@1024pix/stylelint-config-rational-order',
   ],
   rules: {
     'at-rule-no-unknown': [
