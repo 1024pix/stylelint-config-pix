@@ -8,6 +8,20 @@ module.exports = {
       true,
       { ignoreAtRules: ['else', 'extend', 'if', 'include', 'mixin', 'warn'] },
     ],
+    'color-no-hex': [
+      true,
+      {
+        message: (hex) =>
+          `Hex colors like "${hex}" should be replaced by Design Tokens. https://ui.pix.fr/`,
+      },
+    ],
+    'color-named': [
+      'never',
+      {
+        message:
+          'Named colors like "white" should be replaced by Design Tokens. https://ui.pix.fr/',
+      },
+    ],
     'rule-empty-line-before': [
       'always-multi-line',
       { ignore: ['after-comment', 'first-nested'] },
