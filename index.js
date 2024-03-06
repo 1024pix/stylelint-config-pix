@@ -8,7 +8,6 @@ module.exports = {
       true,
       { ignoreAtRules: ['else', 'extend', 'if', 'include', 'mixin', 'warn'] },
     ],
-    'color-hex-length': 'long',
     'rule-empty-line-before': [
       'always-multi-line',
       { ignore: ['after-comment', 'first-nested'] },
