@@ -1,3 +1,9 @@
+## [5.1.1](https://github.com/1024pix/stylelint-config/compare/v5.1.0...v5.1.1) (2024-03-07)
+
+### :building_construction: Tech
+
+- [#24](https://github.com/1024pix/stylelint-config/pull/24) Corrige la `release`
+
 # [5.1.0](https://github.com/1024pix/stylelint-config-pix/compare/v5.0.4...v5.1.0) (2024-03-07)
 
 ### :rocket: Amélioration
