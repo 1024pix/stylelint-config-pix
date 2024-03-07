@@ -1,6 +1,6 @@
 {
   "name": "@1024pix/stylelint-config",
-  "version": "5.0.2",
+  "version": "5.0.3",
   "description": "Shared Pix Stylelint config",
   "main": "index.js",
   "scripts": {
