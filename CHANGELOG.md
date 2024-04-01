@@ -1,3 +1,9 @@
+## [5.1.4](https://github.com/1024pix/stylelint-config/compare/v5.1.3...v5.1.4) (2024-04-01)
+
+### :arrow_up: Montée de version
+
+- [#27](https://github.com/1024pix/stylelint-config/pull/27) Update dependency @1024pix/stylelint-config-rational-order to >=0.1.3 (dossier racine)
+
 ## [5.1.3](https://github.com/1024pix/stylelint-config/compare/v5.1.2...v5.1.3) (2024-03-18)
 
 ### :arrow_up: Montée de version
