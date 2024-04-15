@@ -1,3 +1,9 @@
+## [5.1.6](https://github.com/1024pix/stylelint-config/compare/v5.1.5...v5.1.6) (2024-04-15)
+
+### :arrow_up: Montée de version
+
+- [#29](https://github.com/1024pix/stylelint-config/pull/29) Update dependency node to v20.12.1
+
 ## [5.1.5](https://github.com/1024pix/stylelint-config/compare/v5.1.4...v5.1.5) (2024-04-08)
 
 ### :arrow_up: Montée de version
