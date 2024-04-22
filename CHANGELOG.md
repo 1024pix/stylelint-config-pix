@@ -1,3 +1,9 @@
+## [5.1.9](https://github.com/1024pix/stylelint-config/compare/v5.1.8...v5.1.9) (2024-04-22)
+
+### :arrow_up: Montée de version
+
+- [#32](https://github.com/1024pix/stylelint-config/pull/32) Lock file maintenance (dossier racine)
+
 ## [5.1.8](https://github.com/1024pix/stylelint-config/compare/v5.1.7...v5.1.8) (2024-04-17)
 
 ### :arrow_up: Montée de version
