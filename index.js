@@ -4,10 +4,8 @@ module.exports = {
     '@1024pix/stylelint-config-rational-order',
   ],
   rules: {
-    'at-rule-no-unknown': [
-      true,
-      { ignoreAtRules: ['else', 'extend', 'if', 'include', 'mixin', 'warn'] },
-    ],
+    'at-rule-no-unknown': null,
+    'scss/at-rule-no-unknown': true,
     'color-no-hex': [
       true,
       {
